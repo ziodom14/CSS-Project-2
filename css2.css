@@ -1,0 +1,134 @@
+html {
+	background-color: #f6f6f6;
+}
+
+body {
+	background-color: #f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: #fff4db;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	box-shadow: 5px 5px #000000;
+}
+
+#toprow {
+	height: 290px;
+	background-color: tan;
+
+}
+
+#bigred{
+	width: 290px;
+	height: 290px;
+}
+
+#topdivider {
+	width: 10px;
+	height: 290px;
+}
+
+#topleftcolumn {
+	width: 100px;
+}
+
+#box1 {
+	height: 140px;
+	width: 100px;
+}
+
+#box2 {
+	height: 140px;
+	width: 100px;
+}
+
+#divider2 {
+	height: 10px;
+	width: 100px;
+}
+
+#box3 {
+	height: 100px;
+	width: 100px;
+}
+
+#middledivider {
+	height: 10px;
+	width: 400px;
+}
+
+#bottomrow {
+	height: 100px;
+	background-color: purple;
+}
+
+#bottomleft {
+	width: 10px;
+	height: 100px;
+
+}
+
+#bottommiddle {
+	width: 260px;
+	height: 100px;
+}
+
+#bottomrightdivider {
+	width: 10px;
+	height: 100px;
+}
+
+#bottomrightbox1 {
+	width: 20px;
+	height: 45px;
+}
+
+#bottomrightbox2 {
+	width: 20px;
+	height: 45px;
+}
+
+#bottomrightmiddledivider {
+	width: 20px;
+	height: 10px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.green {
+	background-color: #B9D146;
+}
+
+.pink {
+	background-color: #F3B5F8;
+}
+
+.clay {
+	background-color: #F8BEB5;
+}
+ 
+.black {
+	background-color: black;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
